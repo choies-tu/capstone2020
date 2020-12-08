@@ -15,21 +15,21 @@
 ### Option 1: bodybox 정의
 ```
 <p align='center'>
-  <img src='https://github.com/choies-tu/capstone2020/raw/master/img/fig01.png' />  
+  <img src='https://github.com/choies-tu/capstone2020/raw/master/img/fig01.JPG' />  
 </p>
 
 ```
 ### Option 2: bodybox의 형태 감지
 ```
 <p align='center'>
-  <img src='https://github.com/choies-tu/capstone2020/raw/master/img/fig02.png' />
+  <img src='https://github.com/choies-tu/capstone2020/raw/master/img/fig02.JPG' />
 </p>
 
 ```
 ### Option 3: bodybox의 각도 감지
 ```
 <p align='center'>
-  <img src='https://github.com/choies-tu/capstone2020/raw/master/img/fig03.png' />
+  <img src='https://github.com/choies-tu/capstone2020/raw/master/img/fig03.JPG' />
 </p>
 
 ```
